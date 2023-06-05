@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ae73d44101cf95a44d02114ee6906c4b",
+        "name": "asphalt%20imperfection%20in%20a%20form%20of%20a%20rutting%20and%20shoving.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/asphalt%20imperfection%20in%20a%20form%20of%20a%20rutting%20and%20shoving.jpg",
+        "size": {
+            "width": 1619,
+            "height": 942
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "a_bjYYzYh",
+            "type": "RECTANGLE",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 196.91529484118445,
+                "width": 1035.4147854204095,
+                "left": 47.24579724783374,
+                "top": 227.39221398305085
+            },
+            "points": [
+                {
+                    "x": 47.24579724783374,
+                    "y": 227.39221398305085
+                },
+                {
+                    "x": 1082.6605826682433,
+                    "y": 227.39221398305085
+                },
+                {
+                    "x": 1082.6605826682433,
+                    "y": 424.3075088242353
+                },
+                {
+                    "x": 47.24579724783374,
+                    "y": 424.3075088242353
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

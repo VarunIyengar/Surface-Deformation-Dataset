@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "366d75c912598aac18d25f3aefa5277f",
+        "name": "holes-road-dangerous-pothole-asphalt-highway-outdoor-147576773.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/holes-road-dangerous-pothole-asphalt-highway-outdoor-147576773.jpg",
+        "size": {
+            "width": 800,
+            "height": 531
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wiFLHlava",
+            "type": "RECTANGLE",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 100.6728624535316,
+                "width": 283.43606706612206,
+                "left": 371.22897560881626,
+                "top": 189.98508206619206
+            },
+            "points": [
+                {
+                    "x": 371.22897560881626,
+                    "y": 189.98508206619206
+                },
+                {
+                    "x": 654.6650426749384,
+                    "y": 189.98508206619206
+                },
+                {
+                    "x": 654.6650426749384,
+                    "y": 290.6579445197237
+                },
+                {
+                    "x": 371.22897560881626,
+                    "y": 290.6579445197237
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

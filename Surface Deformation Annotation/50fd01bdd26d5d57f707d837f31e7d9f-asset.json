@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "50fd01bdd26d5d57f707d837f31e7d9f",
+        "name": "rutting_shoving.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/rutting_shoving.jpg",
+        "size": {
+            "width": 641,
+            "height": 481
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2dH4KcJM0",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 170.56737588652481,
+                "width": 632.1802215372992,
+                "left": 4.534370838881491,
+                "top": 159.19623484510055
+            },
+            "points": [
+                {
+                    "x": 7.37947494974149,
+                    "y": 210.9349968551744
+                },
+                {
+                    "x": 629.886363348218,
+                    "y": 159.19623484510055
+                },
+                {
+                    "x": 636.7145923761807,
+                    "y": 225.71751144084524
+                },
+                {
+                    "x": 4.534370838881491,
+                    "y": 329.76361073162536
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

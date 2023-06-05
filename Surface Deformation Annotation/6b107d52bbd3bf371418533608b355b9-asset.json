@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6b107d52bbd3bf371418533608b355b9",
+        "name": "ac-shoving-high.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/ac-shoving-high.jpg",
+        "size": {
+            "width": 300,
+            "height": 224
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ei8wyrRM5",
+            "type": "RECTANGLE",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 219.2340425531915,
+                "width": 148.3443627768005,
+                "left": 100.07451139538493,
+                "top": 1.5886524822695036
+            },
+            "points": [
+                {
+                    "x": 100.07451139538493,
+                    "y": 1.5886524822695036
+                },
+                {
+                    "x": 248.4188741721854,
+                    "y": 1.5886524822695036
+                },
+                {
+                    "x": 248.4188741721854,
+                    "y": 220.822695035461
+                },
+                {
+                    "x": 100.07451139538493,
+                    "y": 220.822695035461
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

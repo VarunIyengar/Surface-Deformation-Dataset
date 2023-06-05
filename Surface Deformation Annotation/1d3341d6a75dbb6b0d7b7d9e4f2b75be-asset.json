@@ -1,0 +1,68 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1d3341d6a75dbb6b0d7b7d9e4f2b75be",
+        "name": "Corrugation-that-occurred-in-a-short-extension-of-the-field-section_Q640.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/Corrugation-that-occurred-in-a-short-extension-of-the-field-section_Q640.jpg",
+        "size": {
+            "width": 616,
+            "height": 616
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "bAcA8fe2q",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 79.36643581525654,
+                "width": 127.42319006953679,
+                "left": 487.3026226936503,
+                "top": 0.7281379429161126
+            },
+            "points": [
+                {
+                    "x": 536.0875148908466,
+                    "y": 5.096932269157247
+                },
+                {
+                    "x": 488.758865248227,
+                    "y": 34.95035460992908
+                },
+                {
+                    "x": 487.3026226936503,
+                    "y": 72.08510638297872
+                },
+                {
+                    "x": 542.6407063802084,
+                    "y": 78.63829787234043
+                },
+                {
+                    "x": 575.4066638270168,
+                    "y": 0.7281379429161126
+                },
+                {
+                    "x": 607.4444666652815,
+                    "y": 2.91253510603668
+                },
+                {
+                    "x": 614.725812763187,
+                    "y": 80.09457375817266
+                },
+                {
+                    "x": 546.2813460979056,
+                    "y": 80.09457375817266
+                },
+                {
+                    "x": 571.7659574468086,
+                    "y": 0.7281379429161126
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,52 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "503d1e7d0b298448253826f9ecbd5734",
+        "name": "Shoving-Shoving-3-Pavement-Interactive-Flickr-nd.png",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/Shoving-Shoving-3-Pavement-Interactive-Flickr-nd.png",
+        "size": {
+            "width": 474,
+            "height": 307
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HMLSOOfW2",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 151.258406749907,
+                "width": 374.44635656994166,
+                "left": 59.810116919577496,
+                "top": 21.03315922328404
+            },
+            "points": [
+                {
+                    "x": 154.49322419454668,
+                    "y": 21.03315922328404
+                },
+                {
+                    "x": 59.810116919577496,
+                    "y": 172.29156597319104
+                },
+                {
+                    "x": 434.2564734895191,
+                    "y": 160.59632787795294
+                },
+                {
+                    "x": 352.82122027565316,
+                    "y": 25.32141021728516
+                },
+                {
+                    "x": 352.82122027565316,
+                    "y": 25.32141021728516
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

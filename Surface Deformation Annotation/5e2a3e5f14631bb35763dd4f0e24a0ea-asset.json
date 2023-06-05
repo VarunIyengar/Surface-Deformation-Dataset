@@ -1,0 +1,52 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "5e2a3e5f14631bb35763dd4f0e24a0ea",
+        "name": "Shoving-of-Flexible-Pavement%20(1).png",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/Shoving-of-Flexible-Pavement%20(1).png",
+        "size": {
+            "width": 615,
+            "height": 568
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RNKoTkCOs",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 508.24589874051134,
+                "width": 159.70542146024064,
+                "left": 299.4581321803716,
+                "top": 46.99764105614195
+            },
+            "points": [
+                {
+                    "x": 326.299396521136,
+                    "y": 46.99764105614195
+                },
+                {
+                    "x": 445.071900612789,
+                    "y": 57.739962963347736
+                },
+                {
+                    "x": 459.16355364061224,
+                    "y": 553.2293553994901
+                },
+                {
+                    "x": 299.4581321803716,
+                    "y": 555.2435397966533
+                },
+                {
+                    "x": 299.4581321803716,
+                    "y": 555.2435397966533
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

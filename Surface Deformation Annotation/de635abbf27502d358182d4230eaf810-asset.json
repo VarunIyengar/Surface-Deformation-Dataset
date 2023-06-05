@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "de635abbf27502d358182d4230eaf810",
+        "name": "Edge-cracks-in-the-asphalt-pavement-44.png",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/Edge-cracks-in-the-asphalt-pavement-44.png",
+        "size": {
+            "width": 850,
+            "height": 459
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "i9ZzVX4TF",
+            "type": "RECTANGLE",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 169.06850381093483,
+                "width": 292.06736384719864,
+                "left": 541.1632156842439,
+                "top": 40.14940068493151
+            },
+            "points": [
+                {
+                    "x": 541.1632156842439,
+                    "y": 40.14940068493151
+                },
+                {
+                    "x": 833.2305795314426,
+                    "y": 40.14940068493151
+                },
+                {
+                    "x": 833.2305795314426,
+                    "y": 209.21790449586632
+                },
+                {
+                    "x": 541.1632156842439,
+                    "y": 209.21790449586632
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,87 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "de46fa82b1839f1603cf360ddecfdca3",
+        "name": "damaged-and-repaired-asphalt-road-damaged-patched-asphalt-road-2k2m96x.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/damaged-and-repaired-asphalt-road-damaged-patched-asphalt-road-2k2m96x.jpg",
+        "size": {
+            "width": 450,
+            "height": 320
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "17s4u3WZM",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 177.77776623448582,
+                "width": 365.06934532752405,
+                "left": 80.99386400412791,
+                "top": 116.12294298537235
+            },
+            "points": [
+                {
+                    "x": 296.63068619832717,
+                    "y": 123.68794326241135
+                },
+                {
+                    "x": 427.90431904161414,
+                    "y": 116.12294298537235
+                },
+                {
+                    "x": 446.063209331652,
+                    "y": 220.14184397163123
+                },
+                {
+                    "x": 323.8690216333839,
+                    "y": 293.9007092198582
+                },
+                {
+                    "x": 80.99386400412791,
+                    "y": 279.1489361702128
+                },
+                {
+                    "x": 80.99386400412791,
+                    "y": 279.1489361702128
+                }
+            ]
+        },
+        {
+            "id": "blK1xYXhJ",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 50.30732283355497,
+                "width": 243.2534793887433,
+                "left": 205.836234748138,
+                "top": 24.586294187721634
+            },
+            "points": [
+                {
+                    "x": 205.836234748138,
+                    "y": 65.43735801750887
+                },
+                {
+                    "x": 443.79334804539724,
+                    "y": 24.586294187721634
+                },
+                {
+                    "x": 449.0897141368813,
+                    "y": 34.4208066683289
+                },
+                {
+                    "x": 208.48441779388006,
+                    "y": 74.8936170212766
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

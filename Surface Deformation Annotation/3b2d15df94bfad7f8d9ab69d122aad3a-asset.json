@@ -1,0 +1,52 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3b2d15df94bfad7f8d9ab69d122aad3a",
+        "name": "Fig-1-Fatigue-Cracking.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/Fig-1-Fatigue-Cracking.jpg",
+        "size": {
+            "width": 814,
+            "height": 488
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "iDYQCiCxt",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 383.57201646090545,
+                "width": 383.4130702836005,
+                "left": 421.21909152594213,
+                "top": 91.47907071839637
+            },
+            "points": [
+                {
+                    "x": 572.443115234375,
+                    "y": 203.93997606819065
+                },
+                {
+                    "x": 460.69790382244145,
+                    "y": 91.47907071839637
+                },
+                {
+                    "x": 421.21909152594213,
+                    "y": 98.17317733450685
+                },
+                {
+                    "x": 750.4324084186671,
+                    "y": 475.0510871793019
+                },
+                {
+                    "x": 804.6321618095426,
+                    "y": 424.1759565690909
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

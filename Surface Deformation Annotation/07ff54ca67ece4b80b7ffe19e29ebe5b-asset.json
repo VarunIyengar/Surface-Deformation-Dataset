@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "07ff54ca67ece4b80b7ffe19e29ebe5b",
+        "name": "Corrugations-in-Flexible-Pavement.png",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/Corrugations-in-Flexible-Pavement.png",
+        "size": {
+            "width": 622,
+            "height": 457
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vMOuPMibF",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 305.7470531598896,
+                "width": 597.9417726996669,
+                "left": 10.263608213820078,
+                "top": 143.69031557123714
+            },
+            "points": [
+                {
+                    "x": 10.263608213820078,
+                    "y": 308.98818791166264
+                },
+                {
+                    "x": 570.3609489430971,
+                    "y": 143.69031557123714
+                },
+                {
+                    "x": 608.205380913487,
+                    "y": 187.98581560283688
+                },
+                {
+                    "x": 234.08631875089125,
+                    "y": 449.43736873112675
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

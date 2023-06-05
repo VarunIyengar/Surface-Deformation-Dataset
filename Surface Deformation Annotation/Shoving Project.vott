@@ -1,0 +1,52 @@
+{
+    "name": "Shoving Project",
+    "securityToken": "Shoving Project Token",
+    "sourceConnection": {
+        "name": "Shoving Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOGFlZGNmNWQ2ZjdiZGNjMzM2YjUwNTY1YjEzMjY3M2JhNWRmZWEzOGRmMGRhMDA0ZWJjZjE3ODNlMTFmMjNiNTU4NTUwYWE2ZDFjY2M4NzI3YjI0YWJkYzNmYjlhMGZiODllYjBiN2YyNWRkNjFjNWE4YWUyYzhhNGUxOTU5ZmM5M2MwOTIzNmEyMjA3ZmNkMDdmN2Q0NDNlZTM3ODU0ZGE0ZGY3YmU2NDBmMDkxMzJjYzljMzcxNDU3N2NjNmU3IiwiaXYiOiJiMzhkNGJmODU5N2ZmZWQ4YzgzMGIwNWNiNWJkNzM0NTUwNjRmM2I2YWE5ZDBjY2IifQ=="
+        },
+        "id": "0nKoUzJOI"
+    },
+    "targetConnection": {
+        "name": "SHoving Annotated",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzY1NDJiOWEyNTAyNDNkOWU3OTYzNWVlYzFiYmVmNDQzMjExMjNhNDM4YTA2NTE1ZGE1YWI4YThmM2Y5NWRjYjAwZWE4ZmJlOGE5NjU4NDAzMTYxNTc1YmJjN2RkZGI1OTE1NDI4MzBlMDViMjNlOWQ5Mzk0MWRiNzRlMzkyZWMxNmVmM2U0MmFkYTI1MzY4ZjZhZmVhYzdkNDViMjAyNDY1NTRkOGUyNDMzNmI3YjY2MzhhOGZhMWFiNTdiMmFhZmI2ZDBlYzMxOGU1NTkzNGY0NDM2MzliMzI5ZGRlMDM1OGU4OGEwMzdmZmUxODBiM2NkM2RmYWNlNzk2ZWE0ZCIsIml2IjoiNWU4YTAzMzVhNGJmZGFjNzM1MWM1MjI5M2M4NzAzNDE1ZThjNTA1NmE0NjVmMTk5In0="
+        },
+        "id": "Ba_nuSCMT"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [],
+    "id": "_Ovfae0SD",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiODhlY2MxZDNjYjRmZTFjZDViMmNlMzczZmJjMGJmYzI5MjZjNWVmN2RiM2RhMTBmODE5YThkMzNiNDU2NmNlOTNlMzhiZTZjNWE5MDM3MGNjZjI5YTQ1NTliYWY4MmUxIiwiaXYiOiJjMDYwNDA5MDMwMGY2ZjVmM2M5MDllOGI5YzU2Y2M1OGJjNDFlYzdiYTlhMjc2MWQifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "dfa89db45eed457662c09d8bba96e0ef",
+    "assets": {
+        "dfa89db45eed457662c09d8bba96e0ef": {
+            "format": "png",
+            "id": "dfa89db45eed457662c09d8bba96e0ef",
+            "name": "1117203236028_10306863%20(1).png",
+            "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/1117203236028_10306863%20(1).png",
+            "size": {
+                "width": 300,
+                "height": 191
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}

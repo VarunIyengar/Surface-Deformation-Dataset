@@ -1,0 +1,117 @@
+{
+    "name": "Shoving Annotation",
+    "securityToken": "Shoving Annotation Token",
+    "sourceConnection": {
+        "name": "Shoving Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNDYxN2E3YjVmMDM3ZTNlMzUxNTk1YTBjZjM3Nzg2ZjJiMTk0MTAzMmI3MzcxMTU5NGUyODUzNWE5MzZkMjkyMTBkZDdiZjdiNzlkYzNhNmZjNmQ1M2VlOWM4OWUyMGIzZTJkY2QyN2RlYjJjNzUzZjhhYTBiNGJiOTdmZWIyNzFjMTNkMzNkMjcxOTI0MTcwM2Y5ZDQ3ODU4Y2M5M2U0MTkxZWEwYzc0OWU4OTc4OGQ1MzM0MmIyMzJlMmEzODFkIiwiaXYiOiI0M2EwNDVmMzk5MTE2NzI1YThhOTE2N2MzZjMxYWZiOGI2ZjRlMzlhNGE0MzcwMjYifQ=="
+        },
+        "id": "0nKoUzJOI"
+    },
+    "targetConnection": {
+        "name": "Shoving Annotated Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMDZmYWM2ZTNjZTZhODc2MjVmNGY1NmNkZTgyNDM1NjUwN2Q5NmQ5OGMzYWNkNWQzMjhmMmVlZGEzOTU2ZWZkNzcwZDM0MTVjYjIxNTJiMGQ0ZGI5YmQ3Y2QyYzA5NWIzZGNmNDE4MGM3ZmYwYzc2OTRlZmI3ZTM4ZDhlNmUwMzgyYTg0NDIzZTU3N2U5ZDRiOGJkZDAwZTFmMDNlMWI3ZDA2OGZjNmJhYzM4NGJmYjAyNzY1ZGIxZjI2YzQ2Zjg5IiwiaXYiOiI0ZDZjY2ZiMmE1ZTgxOGRhYzVhYjFlZDBjMTRhZmQ1OTJmNjA3YjIyMzM5MTRjOTUifQ=="
+        },
+        "id": "igBbXnen_"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Shoved Road",
+            "color": "#5db300"
+        }
+    ],
+    "id": "QQFasY_-_",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNWYxOTgyNDg2OWQ2YzIxNzg1ZWQ0YTZlZjlmMDYxZDhjMTBlYjQzY2E4N2M1N2YzZmU0NzhiMGY3NGY4OTBjYjY5ZTdmOGRlNTZjZDdhZWYzZmY4MDAxNjZjZWM0MmY5IiwiaXYiOiI5NWMxMjAyNzJmODJhNWU2MmM5NjZmZjA1MWM0OGUyNmE1OWIzNmQ4OTg3YzZlMmIifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "6b107d52bbd3bf371418533608b355b9",
+    "assets": {
+        "dfa89db45eed457662c09d8bba96e0ef": {
+            "format": "png",
+            "id": "dfa89db45eed457662c09d8bba96e0ef",
+            "name": "1117203236028_10306863%20(1).png",
+            "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/1117203236028_10306863%20(1).png",
+            "size": {
+                "width": 300,
+                "height": 191
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d3a136506583dbc610ff00306726466": {
+            "format": "png",
+            "id": "8d3a136506583dbc610ff00306726466",
+            "name": "1117203236028_10306863.png",
+            "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/1117203236028_10306863.png",
+            "size": {
+                "width": 300,
+                "height": 191
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b226d60b112a52a98be9f06a98821131": {
+            "format": "png",
+            "id": "b226d60b112a52a98be9f06a98821131",
+            "name": "246.png",
+            "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/246.png",
+            "size": {
+                "width": 423,
+                "height": 273
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fb39edbf7a24cd84f7d3efed865f019d": {
+            "format": "png",
+            "id": "fb39edbf7a24cd84f7d3efed865f019d",
+            "name": "330652_1_En_1_Fig22_HTML.png",
+            "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/330652_1_En_1_Fig22_HTML.png",
+            "size": {
+                "width": 425,
+                "height": 245
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7cfcb556e881b81e4991091306957d5d": {
+            "format": "jpg",
+            "id": "7cfcb556e881b81e4991091306957d5d",
+            "name": "ac-corrugation-high-1.jpg",
+            "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/ac-corrugation-high-1.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b107d52bbd3bf371418533608b355b9": {
+            "format": "jpg",
+            "id": "6b107d52bbd3bf371418533608b355b9",
+            "name": "ac-shoving-high.jpg",
+            "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/ac-shoving-high.jpg",
+            "size": {
+                "width": 300,
+                "height": 224
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1748a2192b1efbbe366af9a8517acbe5",
+        "name": "raveling.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/raveling.jpg",
+        "size": {
+            "width": 585,
+            "height": 347
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sPnaEfi11",
+            "type": "RECTANGLE",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 268.36591537380417,
+                "width": 287.09001233045626,
+                "left": 265.2096324313878,
+                "top": 75.89122421677048
+            },
+            "points": [
+                {
+                    "x": 265.2096324313878,
+                    "y": 75.89122421677048
+                },
+                {
+                    "x": 552.299644761844,
+                    "y": 75.89122421677048
+                },
+                {
+                    "x": 552.299644761844,
+                    "y": 344.25713959057464
+                },
+                {
+                    "x": 265.2096324313878,
+                    "y": 344.25713959057464
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

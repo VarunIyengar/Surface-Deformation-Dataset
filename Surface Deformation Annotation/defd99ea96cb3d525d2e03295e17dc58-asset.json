@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "defd99ea96cb3d525d2e03295e17dc58",
+        "name": "Cracking-and-Shoving1%20(3).jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/Cracking-and-Shoving1%20(3).jpg",
+        "size": {
+            "width": 1600,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "v7EG8zZGt",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 706.3830111889129,
+                "width": 748.936170212766,
+                "left": 20.21276595744681,
+                "top": 52.48228032538231
+            },
+            "points": [
+                {
+                    "x": 20.21276595744681,
+                    "y": 577.3049861826795
+                },
+                {
+                    "x": 596.0993340674867,
+                    "y": 52.48228032538231
+                },
+                {
+                    "x": 769.1489361702128,
+                    "y": 53.900714630776264
+                },
+                {
+                    "x": 47.16316385472074,
+                    "y": 758.8652915142952
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

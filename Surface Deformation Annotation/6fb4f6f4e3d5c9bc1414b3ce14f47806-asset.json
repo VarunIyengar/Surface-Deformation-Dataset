@@ -1,0 +1,52 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6fb4f6f4e3d5c9bc1414b3ce14f47806",
+        "name": "deformed-asphalt-surface-potholes-caused-heavy-overloaded-trucks-driving-highway-broken-road-holes-cracks-254523439.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/deformed-asphalt-surface-potholes-caused-heavy-overloaded-trucks-driving-highway-broken-road-holes-cracks-254523439.jpg",
+        "size": {
+            "width": 800,
+            "height": 533
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "m36q9a_wM",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 220.4382665846083,
+                "width": 322.2359427982429,
+                "left": 415.28976572133166,
+                "top": 111.37068152251067
+            },
+            "points": [
+                {
+                    "x": 415.28976572133166,
+                    "y": 111.37068152251067
+                },
+                {
+                    "x": 606.6584463625154,
+                    "y": 158.09042958860044
+                },
+                {
+                    "x": 737.5257085195746,
+                    "y": 258.11019271568017
+                },
+                {
+                    "x": 659.2684330687423,
+                    "y": 331.80894810711897
+                },
+                {
+                    "x": 450.8014796547472,
+                    "y": 194.28180769461173
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,52 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0101eadefeff69a7541cfde7285596d5",
+        "name": "repair-broken-damaged-paved-road_252085-17354.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/repair-broken-damaged-paved-road_252085-17354.jpg",
+        "size": {
+            "width": 417,
+            "height": 626
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JA7jChnRo",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 611.9408926997625,
+                "width": 235.11702127659575,
+                "left": 117.58162697325362,
+                "top": 7.399532832152454
+            },
+            "points": [
+                {
+                    "x": 235.1401376115515,
+                    "y": 11.839249144209193
+                },
+                {
+                    "x": 352.6986482498494,
+                    "y": 594.1820782600565
+                },
+                {
+                    "x": 194.4752214310017,
+                    "y": 619.3404255319149
+                },
+                {
+                    "x": 117.58162697325362,
+                    "y": 200.5272093427942
+                },
+                {
+                    "x": 136.06569208997362,
+                    "y": 7.399532832152454
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

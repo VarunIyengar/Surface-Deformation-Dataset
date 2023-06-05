@@ -1,0 +1,52 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8a107b2aebebc5724fad7d9eb34d083a",
+        "name": "Pothole2.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/Pothole2.jpg",
+        "size": {
+            "width": 592,
+            "height": 444
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dvItGHCjZ",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 205.73052848653592,
+                "width": 542.1418599879488,
+                "left": 37.3936170212766,
+                "top": 173.19148936170214
+            },
+            "points": [
+                {
+                    "x": 419.98936170212767,
+                    "y": 242.99292381773606
+                },
+                {
+                    "x": 222.13122169007647,
+                    "y": 173.19148936170214
+                },
+                {
+                    "x": 37.3936170212766,
+                    "y": 227.77305765354888
+                },
+                {
+                    "x": 578.485847635472,
+                    "y": 378.92201784823806
+                },
+                {
+                    "x": 579.5354770092255,
+                    "y": 277.1063829787234
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

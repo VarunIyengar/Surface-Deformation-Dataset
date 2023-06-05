@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "208b7e4672e70cdaff51c01dce81d91c",
+        "name": "images%20(50).jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/images%20(50).jpg",
+        "size": {
+            "width": 259,
+            "height": 194
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hspbI6lrE",
+            "type": "RECTANGLE",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 84.84633744692971,
+                "width": 250.40106241699868,
+                "left": 6.416962419689731,
+                "top": 51.825060851185036
+            },
+            "points": [
+                {
+                    "x": 6.416962419689731,
+                    "y": 51.825060851185036
+                },
+                {
+                    "x": 256.81802483668844,
+                    "y": 51.825060851185036
+                },
+                {
+                    "x": 256.81802483668844,
+                    "y": 136.67139829811475
+                },
+                {
+                    "x": 6.416962419689731,
+                    "y": 136.67139829811475
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

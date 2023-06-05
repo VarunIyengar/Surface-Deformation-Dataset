@@ -1,0 +1,52 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a855830e2e38ffb5f1d5c11133f13133",
+        "name": "asphalt-spraying-pavement-road-construction-rubber-preparation-207913268.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/asphalt-spraying-pavement-road-construction-rubber-preparation-207913268.jpg",
+        "size": {
+            "width": 800,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OmMqxTkuU",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 360.9929186232546,
+                "width": 90.07094362948801,
+                "left": 668.2624329911902,
+                "top": 148.22696117644614
+            },
+            "points": [
+                {
+                    "x": 757.6241351188497,
+                    "y": 148.93617021276592
+                },
+                {
+                    "x": 757.6241351188497,
+                    "y": 148.93617021276592
+                },
+                {
+                    "x": 710.8156244805517,
+                    "y": 148.22696117644614
+                },
+                {
+                    "x": 668.2624329911902,
+                    "y": 489.3617021276595
+                },
+                {
+                    "x": 758.3333766206782,
+                    "y": 509.2198797997007
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

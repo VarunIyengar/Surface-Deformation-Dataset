@@ -1,0 +1,64 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "94bf0221c5455bcf1c83201b90531e41",
+        "name": "Shows-rutting-occurring-in-pavement-the-road-located-in-Iraq_Q320.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/Shows-rutting-occurring-in-pavement-the-road-located-in-Iraq_Q320.jpg",
+        "size": {
+            "width": 245,
+            "height": 245
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2egi-cATW",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 164.4917346061544,
+                "width": 240.43882978723403,
+                "left": 0,
+                "top": 75.58510638297872
+            },
+            "points": [
+                {
+                    "x": 75.07832736833721,
+                    "y": 76.45390070921985
+                },
+                {
+                    "x": 110.11968085106383,
+                    "y": 75.58510638297872
+                },
+                {
+                    "x": 240.43882978723403,
+                    "y": 161.30615099102047
+                },
+                {
+                    "x": 240.43882978723403,
+                    "y": 161.30615099102047
+                },
+                {
+                    "x": 230.30290481892038,
+                    "y": 236.31205673758865
+                },
+                {
+                    "x": 95.63978425154448,
+                    "y": 240.07684098913313
+                },
+                {
+                    "x": 0,
+                    "y": 168.25650560094954
+                },
+                {
+                    "x": 2.3891843971631204,
+                    "y": 125.68558361513395
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

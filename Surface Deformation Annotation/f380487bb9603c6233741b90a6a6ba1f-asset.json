@@ -1,0 +1,52 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f380487bb9603c6233741b90a6a6ba1f",
+        "name": "Failure-of-flexible-pavement-common-causes.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/Failure-of-flexible-pavement-common-causes.jpg",
+        "size": {
+            "width": 640,
+            "height": 480
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "P_iwOHQWd",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 184.96454766456117,
+                "width": 629.2198408410904,
+                "left": 5.248244265292553,
+                "top": 125.95744680851064
+            },
+            "points": [
+                {
+                    "x": 9.787234042553191,
+                    "y": 132.7659574468085
+                },
+                {
+                    "x": 9.787234042553191,
+                    "y": 132.7659574468085
+                },
+                {
+                    "x": 606.6667012965426,
+                    "y": 125.95744680851064
+                },
+                {
+                    "x": 634.468085106383,
+                    "y": 294.468085106383
+                },
+                {
+                    "x": 5.248244265292553,
+                    "y": 310.92199447307183
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

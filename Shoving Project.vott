@@ -1,0 +1,38 @@
+{
+    "name": "Shoving Project",
+    "securityToken": "Shoving Project Token",
+    "sourceConnection": {
+        "name": "Shoving Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYTg4OWNjOWRiZmM3MjVmNDI1Yjg0NTczNTBmNGU5MGI5MjUxZDdlY2M4YmUxOTRjMjBiNTBkNmNkYWI1NTZiNjc2ODgzZjhjNjNhMDQwMGM3ZjQyZTk5ZWEzYjJlNGEwMWVmNDAwNzE3N2VmYTEzZmVjM2U3OTI4MWE3MTc4ODdiMjUyNTFjMGQ2ZmRmYjE0Y2NhOTYwYTE3NjBhNzQxYTBhOTllZTcwZjI2ZjUzNTI4ODlkNjY5NjZiZWQ1OTU5IiwiaXYiOiI5NjBhMTEzNWEwYTMxYzc2NGY3MjUwZWY1YWQ0MzdmYmI2Y2JlNDE2Mzg3NzBjYWEifQ=="
+        },
+        "id": "0nKoUzJOI"
+    },
+    "targetConnection": {
+        "name": "Shoving Annotated Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNjJhMzk1NWFiODI2MDdhMjNmNTkwOGQ2NWVjNjJhNzViZTA0ZDAxNDAyYThmODNlMGQwYzNhMzVkNTUyZDU5ZjZlMDlhOGE5MzJmMTMxNDc1N2QyODFlYTE4NzFkMWRhOTJmNDU1YTczMzNmZGNjMjE3MmE3MTQwMDBmYTYwNDhiZGQ1NzI4YzNmMGViZWE3OGY0NTVkOTVhYjE1ODE2ZTFiMmE0YzliZDQzYzYxYzMxY2E4Y2IzYzc1NTE0NGFkIiwiaXYiOiI1Yjg3ZjZiYWMyOGFmMmUxYTkyNDUwNWFhNDE0YTQwMGM3ZjQ2MTIzNDMwYThlOWQifQ=="
+        },
+        "id": "igBbXnen_"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [],
+    "id": "_Ovfae0SD",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGExOTlkZjA0ZmEwMzJmMGY0MDk5ZTFjZGViZjEzYjhmMGViY2UzZTRkM2QwNDhkMDNmYWJlZmMwNmU5YWViZDBiYzUwOTE3N2JhYTJmMGM3MTE0MTgzZjliYWI1NjFiIiwiaXYiOiI0ZTMxMWI0N2NiOGQzYWU2OTZmNWIzYTI1NTc4MTI0NGFhMGE3NmE4YjdhYzk1YzEifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "dfa89db45eed457662c09d8bba96e0ef"
+}

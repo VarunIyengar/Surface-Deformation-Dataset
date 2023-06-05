@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0a048cd8aced21798785837f06609f41",
+        "name": "asphalt-road-with-holes_252085-27587.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/asphalt-road-with-holes_252085-27587.jpg",
+        "size": {
+            "width": 417,
+            "height": 626
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wqYZJKbHf",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 394.394810345156,
+                "width": 292.7872340425531,
+                "left": 108.7092865477217,
+                "top": 81.39481034515597
+            },
+            "points": [
+                {
+                    "x": 210.00181717568256,
+                    "y": 81.39481034515597
+                },
+                {
+                    "x": 332.73588229240255,
+                    "y": 92.49410112529782
+                },
+                {
+                    "x": 401.4965205902748,
+                    "y": 475.78962069031195
+                },
+                {
+                    "x": 108.7092865477217,
+                    "y": 464.6903299101701
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

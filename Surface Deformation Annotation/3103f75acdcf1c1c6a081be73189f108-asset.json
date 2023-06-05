@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3103f75acdcf1c1c6a081be73189f108",
+        "name": "Corrugations.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/Corrugations.jpg",
+        "size": {
+            "width": 1024,
+            "height": 768
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ukAd_txWB",
+            "type": "RECTANGLE",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 59.91489361702128,
+                "width": 199.7163397606383,
+                "left": 335.20570146276594,
+                "top": 295.9432762632979
+            },
+            "points": [
+                {
+                    "x": 335.20570146276594,
+                    "y": 295.9432762632979
+                },
+                {
+                    "x": 534.9220412234042,
+                    "y": 295.9432762632979
+                },
+                {
+                    "x": 534.9220412234042,
+                    "y": 355.85816988031917
+                },
+                {
+                    "x": 335.20570146276594,
+                    "y": 355.85816988031917
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

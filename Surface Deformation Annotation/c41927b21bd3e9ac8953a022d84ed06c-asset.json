@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c41927b21bd3e9ac8953a022d84ed06c",
+        "name": "Shoving-on-the-asphalt-pavement_Q640.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/Shoving-on-the-asphalt-pavement_Q640.jpg",
+        "size": {
+            "width": 640,
+            "height": 640
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VnADrtjR0",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 569.6454247007979,
+                "width": 199.7163120567376,
+                "left": 293.71163009751774,
+                "top": 60.52010610593972
+            },
+            "points": [
+                {
+                    "x": 326.9976590203901,
+                    "y": 60.52010610593972
+                },
+                {
+                    "x": 435.9338292331561,
+                    "y": 62.03310269835993
+                },
+                {
+                    "x": 493.42794215425533,
+                    "y": 630.1655308067376
+                },
+                {
+                    "x": 293.71163009751774,
+                    "y": 624.8699994459221
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

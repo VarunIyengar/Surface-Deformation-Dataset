@@ -1,0 +1,52 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9c3ca23cf08a11e7d5676c2e44baddb1",
+        "name": "asphalt-corrugation-shoving-hals-concrete.jpg",
+        "path": "file:C:/Users/iyengava/Final%20Year%20Project/urfaceDeformation%20Shoving/asphalt-corrugation-shoving-hals-concrete.jpg",
+        "size": {
+            "width": 1280,
+            "height": 853
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9LTjvLvUX",
+            "type": "POLYGON",
+            "tags": [
+                "Shoved Road"
+            ],
+            "boundingBox": {
+                "height": 484.57544543253954,
+                "width": 958.5531943588163,
+                "left": 274.097853729963,
+                "top": 269.4531626956961
+            },
+            "points": [
+                {
+                    "x": 274.097853729963,
+                    "y": 269.4531626956961
+                },
+                {
+                    "x": 888.5819975339087,
+                    "y": 291.5270998491157
+                },
+                {
+                    "x": 1232.6510480887794,
+                    "y": 590.0507892742615
+                },
+                {
+                    "x": 545.5651780209618,
+                    "y": 754.0286081282356
+                },
+                {
+                    "x": 545.5651780209618,
+                    "y": 754.0286081282356
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
